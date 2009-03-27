@@ -1,0 +1,13 @@
+plugin name: hilite
+by: @gnlnx
+public clone url: git://github.com/gnlnx/hilite.git
+
+Use hilite to show when a yellow background on interesting text.
+
+usage: jQuery( elements ).hilite( options );
+options: { color }
+
+
+Copyright (c) 2009 Omar A Rodriguez
+Licensed under the MIT license
+http://www.opensource.org/licenses/mit-license.php
